@@ -6,4 +6,4 @@
 
 * Assisti as aulas e além de reproduzir as dicas, fiz algumas alterações no código, a fim de melhorar alguns detalhes.
 
-:wolf: :wolf:
+## :wolf: :wolf: :wolf:
