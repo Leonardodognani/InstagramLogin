@@ -1,4 +1,6 @@
-# Projeto da DIO, para fazer uma cópia da página do Instagram.
+# 🔑Página de login do Instagram🔑
+
+## Reprodução da página de login do Instagram
 
 * Resultado do projeto da plataforma da DIO, de HTML5 e CSS3, usando o conceito de Flexbox; 
 
